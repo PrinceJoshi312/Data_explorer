@@ -1,7 +1,3 @@
-Thanks for the reference! Here's your improved, **professional-style `README.md`** in the tone and layout of the RBI Compliance Bot example — but for your **Data Explorer Dashboard** project:
-
----
-
 # 📊 Data Explorer Dashboard
 
 A simple yet powerful Streamlit-based app to help analysts, data scientists, students, and business users explore any dataset without writing code.
@@ -81,7 +77,3 @@ Feel free to fork this repo, improve features, or add new visualizations like:
 * Dataset cleaner/imputer
 
 Pull requests are welcome!
-
----
-
-Would you like this also saved as a Markdown file in your project? Or want me to help you commit and push this to GitHub properly now that your branch is fixed?
